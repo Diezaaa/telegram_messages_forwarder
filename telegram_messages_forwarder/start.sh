@@ -1,1 +1,0 @@
-python3 telegram_messages_forwarder/forwarder.py
